@@ -27,7 +27,7 @@ contate meu e-email: josephparentejw1@gmail.com
   <a href="https://www.linkedin.com/in/joseph-parente-silva-7221271aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
     
-    ![Snake animation](https://github.com/joseph-12/joseph-12/blob/output/github-contribution-grid-snake.svg)
+    
  
     </div>
  
